@@ -1,5 +1,4 @@
-# app_01
-じゃんけんアプリ
+# app_02_じゃんけんアプリ
 
  - VStack,HStack,ZStackの応用
  - 画像の読み込み(Assets)
